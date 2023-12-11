@@ -1,0 +1,23 @@
+{
+  "name": "twcrawler",
+  "version": "1.0.0",
+  "description": "Data collector  ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Moti",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.2",
+    "debug": "^4.3.4",
+    "lodash": "^4.17.21",
+    "minimist": "^1.2.8",
+    "mkdirp": "^3.0.1",
+    "moment": "^2.29.4",
+    "mysql": "^2.18.1",
+    "useragent": "^2.3.0",
+    "util-promisifyall": "^1.0.6"
+  }
+}
